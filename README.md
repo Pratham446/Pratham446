@@ -1,28 +1,50 @@
-<h3 align="center">🚀 A Passionate Flutter Developer from India 🇮🇳</h3>
+# 👋 Hi there, I'm [Your Name] - Flutter Developer
 
 <p align="center">
-  <a href="https://darzy9321747942.github.io/Dashboard/">🌐 My Dashboard</a>
+  <img src="https://github.com/yourusername/yourusername/blob/main/assets/flutter_developer.gif" alt="Flutter Developer" height="250"/>
 </p>
 
-- 🌱 I’m currently upgrading my skills in **Flutter Framework Firebase Integration RESTful APIs**.
+## 🚀 About Me
 
-- 📧 Feel free to contact me at **darjipratham99@Gmail.com**.
+I am a passionate Flutter developer from [Your Location]. My journey in the world of mobile app development has been an exciting ride, and Flutter has been my trusted companion in crafting beautiful cross-platform applications.
 
-- ⚡ Fun fact: **I believe coding is a bit like riding a bike. Both start wobbly, but with practice, you find your balance and soon enjoy the ride of building awesome things! 🚴‍♂️💻 #CodingCyclist**
+- 🔭 I’m currently working on [Your Current Project].
+- 🌱 I’m currently learning more about state management in Flutter.
+- 💬 Ask me about Flutter, Dart, or anything related to mobile app development.
+- 📫 How to reach me: [Your Email](mailto:your.email@example.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/https://twitter.com/home" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/home" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/pratham0704/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratham0704/" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.dart.dev" target="_blank" rel="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank" rel="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-  <!-- Add more icons for your other languages and tools -->
-</p>
+Here are some of the technologies and tools I work with:
+
+- Flutter
+- Dart
+- Firebase
+- RESTful APIs
+- Git & GitHub
+
+## 🚀 My Projects
+
+- [Project 1](https://github.com/yourusername/project1): Short description of the project.
+- [Project 2](https://github.com/yourusername/project2): Short description of the project.
+
+Feel free to explore my repositories for more!
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/yourusername/)
+- [Twitter](https://twitter.com/your_twitter_handle)
+- [Portfolio](https://yourportfolio.com)
+
+## ⚡ Fun Fact
+
+I believe coding is a bit like riding a bike. Both start wobbly, but with practice, you find your balance and soon enjoy the ride of building awesome things! 🚴‍♂️💻 #CodingCyclist
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratham446&show_icons=true&locale=en&layout=compact" alt="pratham446" />
+  <img src="https://img.shields.io/badge/Flutter-Blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge"/>
 </p>
+
+<p align="center">⭐️ Star this repo if you find my work interesting and helpful! ⭐️</p>
