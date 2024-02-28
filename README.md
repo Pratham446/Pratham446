@@ -1,9 +1,7 @@
 # 👋 Hi there, I'm Pratham Darji - Mobile App Developer
 
-<p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/assets/flutter_developer.gif" alt="Flutter Developer" height="250"/>
-</p>
-- [Portfolio](https://darzy9321747942.github.io/Dashboard/)
+Check out my portfolio: [Your Portfolio](https://darzy9321747942.github.io/Dashboard/)
+
 
 ## 🚀 About Me
 
